@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ManyStrings
 {
@@ -6,7 +6,9 @@ namespace ManyStrings
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            string s = "lalalala\grrr\u271D";
+            Consoçe.WriteLine(s)
+            //Console.WriteLine("Hello LP1!");
         }
     }
 }
