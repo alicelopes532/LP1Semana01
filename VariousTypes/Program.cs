@@ -10,8 +10,12 @@ namespace VariousTypes
             //Console.WriteLine(numero);
             //char symbol = \u2626;
             //Console.WriteLine(symbol);
-            double x = 2.15;
-            Console.WriteLine(double);
+            //double x = 2.15;
+            //Console.WriteLine(double);
+            bool condition = false;
+            bool condition = 7>2;
+            if (condition){true
+            Console.WriteLine(condition);
         }
     }
 }
