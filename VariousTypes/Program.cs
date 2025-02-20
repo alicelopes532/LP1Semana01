@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace VariousTypes
 {
@@ -6,7 +6,8 @@ namespace VariousTypes
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            int numero = 2;
+            Console.WriteLine(numero);
         }
     }
 }
